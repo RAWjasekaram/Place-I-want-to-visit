@@ -1,0 +1,96 @@
+.title {
+    width: auto;
+    border: 50px solid blue;
+    background-color: white;
+    padding: 15px;
+    Margin: 25px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: crimson;
+    letter-spacing: 2px;
+    color: crimson;
+   
+}
+
+.main {
+    font-size: 37px;
+}
+
+.sub {
+    font-size: 25px;
+
+}
+
+.navbar{
+    display:flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 14px 25px;
+    color: crimson;
+   
+
+}
+
+.a {  
+    font-size: 27px;
+    padding: 20px;
+     border: 20px solid blue;
+}
+
+.Title {
+    color: crimson;
+    background-color: black;
+    border: 5px solid goldenrod;
+    Margin:25px 150px;
+    text-decoration-line: underline;
+    text-decoration-color: crimson;
+    letter-spacing: 2px;
+    padding: 5px
+
+}
+.TitDiv {
+    text-align: center;
+}
+
+.return{
+    text-align: right;
+    background-color: aliceblue;
+    margin:0px 10px 0px 1111px;
+  }
+
+  .returnJ{
+    text-align: right;
+    background-color: aliceblue;
+    margin:0px 10px 0px 1751px;
+  }
+
+  a:link {
+    color: red;
+  }
+  
+   a:visited {
+    color: crimson;
+    text-decoration: line-through
+  }
+  
+  a:hover {
+    color: darkolivegreen;
+    text-decoration: underline;
+  }
+  
+    a:active {
+    color: royalblue;
+    text-decoration: line-through
+  }
+
+  .grid-container {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .text{
+    background-color: aliceblue;
+    border: 5px solid skyblue;
+    margin: 25px
+   
+  }
